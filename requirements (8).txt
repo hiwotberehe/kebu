@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sentence-transformers
+xgboost
+faker
+streamlit
+fastapi
+uvicorn
+joblib
+kagglehub
+google-generativeai
+google-genai
